@@ -2,10 +2,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.vaadin.addons</groupId>
+	<groupId>org.vaadin.addons.tatu</groupId>
 	<artifactId>longpressextension</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<name>LongPressExtension Add-on</name>
 
 	<prerequisites>
@@ -28,12 +28,12 @@
 		<Vaadin-Addon>${project.artifactId}-${project.version}.jar</Vaadin-Addon>
 	</properties>
 
-    <!--
 	<organization>
-		<name>My Name</name>
-		<url>https://github.com/mygithubaccount/LongPressExtension/</url>
+		<name>TatuLund</name>
+		<url>https://github.com/tatulund/LongPressExtension/</url>
 	</organization>
 
+    <!--
 	<scm>
 		<url>git://github.com/mygithubaccount/LongPressExtension.git</url>
 		<connection>scm:git:git://github.com/mygithubaccount/LongPressExtension.git</connection>
@@ -101,7 +101,7 @@
 							<!-- Package format version - do not change -->
 							<Vaadin-Package-Version>1</Vaadin-Package-Version>
 							<Vaadin-License-Title>${Vaadin-License-Title}</Vaadin-License-Title>
-							<Vaadin-Widgetsets>org.vaadin.addons.longpressextension.WidgetSet</Vaadin-Widgetsets>
+							<Vaadin-Widgetsets>org.vaadin.addons.tatu.longpressextension.WidgetSet</Vaadin-Widgetsets>
 						</manifestEntries>
 					</archive>
 				</configuration>

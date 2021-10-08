@@ -1,4 +1,4 @@
-package org.vaadin.addons.longpressextension.client;
+package org.vaadin.addons.tatu.longpressextension.client;
 
 import com.vaadin.shared.MouseEventDetails;
 import com.vaadin.shared.communication.ServerRpc;

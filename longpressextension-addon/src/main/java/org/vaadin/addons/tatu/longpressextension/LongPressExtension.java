@@ -1,9 +1,9 @@
-package org.vaadin.addons.longpressextension;
+package org.vaadin.addons.tatu.longpressextension;
 
 import java.lang.reflect.Method;
 
-import org.vaadin.addons.longpressextension.client.LongPressExtensionServerRpc;
-import org.vaadin.addons.longpressextension.client.LongPressExtensionState;
+import org.vaadin.addons.tatu.longpressextension.client.LongPressExtensionServerRpc;
+import org.vaadin.addons.tatu.longpressextension.client.LongPressExtensionState;
 
 import com.vaadin.event.ConnectorEventListener;
 import com.vaadin.server.AbstractExtension;

@@ -1,6 +1,6 @@
-package org.vaadin.addons.longpressextension.client;
+package org.vaadin.addons.tatu.longpressextension.client;
 
-import org.vaadin.addons.longpressextension.LongPressExtension;
+import org.vaadin.addons.tatu.longpressextension.LongPressExtension;
 
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.dom.client.NativeEvent;

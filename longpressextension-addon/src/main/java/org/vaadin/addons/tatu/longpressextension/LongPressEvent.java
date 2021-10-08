@@ -1,4 +1,4 @@
-package org.vaadin.addons.longpressextension;
+package org.vaadin.addons.tatu.longpressextension;
 
 import com.vaadin.shared.MouseEventDetails;
 import com.vaadin.ui.AbstractComponent;

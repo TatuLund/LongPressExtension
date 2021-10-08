@@ -1,6 +1,6 @@
-package org.vaadin.addons.longpressextension.demo;
+package org.vaadin.addons.tatu.longpressextension.demo;
 
-import org.vaadin.addons.longpressextension.LongPressExtension;
+import org.vaadin.addons.tatu.longpressextension.LongPressExtension;
 
 import javax.servlet.annotation.WebServlet;
 
